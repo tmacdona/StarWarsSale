@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StarWarsSale</string>
+    <string name="strike_price"><strike> $15.00 </strike></string>
+</resources>
